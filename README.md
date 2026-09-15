@@ -4,7 +4,7 @@ We are **Q&B Tech Studio**, a growing technology studio focused on building **mo
 
 We specialize in **web development, web applications, e-commerce solutions, and custom software**, combining clean design with reliable functionality to help businesses establish and grow their online presence.
 
-Our goal is simple — **turn ideas into useful digital experiences through technology and creativity.** 💡
+Our goal is simple **turn ideas into useful digital experiences through technology and creativity.** 💡
 
 ---
 
