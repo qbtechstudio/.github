@@ -1,98 +1,94 @@
-# Q&B Tech Studio
+# 💫 About Us
 
-### TECH MEETS CREATIVITY
+We are **Q&B Tech Studio**, a growing technology studio focused on building **modern, responsive, and practical digital solutions**. 🚀
 
-We build modern websites, web applications, e-commerce solutions, and practical digital products that combine clean design with reliable functionality.
+We specialize in **web development, web applications, e-commerce solutions, and custom software**, combining clean design with reliable functionality to help businesses establish and grow their online presence.
 
-At **Q&B Tech Studio**, our goal is simple — turn ideas into useful, professional, and scalable digital experiences.
-
----
-
-## 🚀 What We Build
-
-| Service                    | Description                                                      |
-| -------------------------- | ---------------------------------------------------------------- |
-| 🌐 Website Development     | Modern, responsive websites for businesses and personal brands   |
-| ⚡ Dynamic Web Applications | Database-powered applications with practical functionality       |
-| 🛒 E-Commerce Solutions    | Online stores and shopping experiences built for real businesses |
-| 🧩 Custom Web Solutions    | Tailored systems designed around specific business requirements  |
-| 🎨 UI/UX Implementation    | Clean, responsive, and user-friendly interfaces                  |
-| 🔧 WordPress Development   | Business websites and content-managed solutions                  |
+Our goal is simple — **turn ideas into useful digital experiences through technology and creativity.** 💡
 
 ---
 
-## 🛠️ Technologies
+## 🚀 What We Do
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php,mysql,laravel,wordpress" alt="Technologies" />
-</p>
-
-We use modern web technologies to create solutions that are responsive, maintainable, and focused on real-world usability.
-
----
-
-## 💡 Our Approach
-
-We believe great digital products are built through a balance of:
-
-**Technology + Creativity + Functionality**
-
-From the first idea to the final implementation, we focus on:
-
-* Clean and organized development
-* Responsive design
-* Practical functionality
-* User-friendly experiences
-* Maintainable code
-* Business-focused solutions
+- 🌐 Modern Website Development
+- ⚡ Dynamic Web Applications
+- 🛒 E-Commerce Solutions
+- 🧩 Custom Web Solutions
+- 🎨 Responsive & User-Friendly Interfaces
+- 🔐 Database-Driven Applications
+- 🔍 SEO-Friendly Websites
+- 🛠️ Website Maintenance & Improvements
 
 ---
 
-## 👥 Our Team
+## 🌐 Connect With Us
 
-### Qamar Idrees
-
-**Founder & Full Stack Developer**
-
-Focused on building complete web solutions from frontend interfaces to backend functionality.
-
-### Muhammad Bilal Waris
-
-**Co-Founder & Full Stack Developer**
-
-Focused on modern web development, responsive interfaces, backend systems, and practical digital solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/qbtechstudio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qbtechstudio)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qbtechstudio@gmail.com)
 
 ---
 
-## 📂 Featured Projects
+# 💻 Tech Stack
 
-Explore our repositories to see the projects, experiments, and solutions we're building.
+### 🎨 Frontend
 
-> New projects and client-focused solutions will be added as Q&B Tech Studio grows.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
----
+### ⚙️ Backend & Database
 
-## 🌍 Let's Build Something
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-Have an idea, business requirement, or project in mind?
+### 📝 CMS
 
-We're always interested in turning practical ideas into modern digital solutions.
-
-### Connect With Q&B Tech Studio
-
-<p align="left">
-  <a href="https://github.com/qbtechstudio">
-    <img src="https://img.shields.io/badge/GitHub-Q%26B%20Tech%20Studio-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/company/qbtechstudio/">
-    <img src="https://img.shields.io/badge/LinkedIn-Q%26B%20Tech%20Studio-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
+![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
 
-<p align="center">
-  <strong>Q&B Tech Studio</strong>
-  <br>
-  <sub>TECH MEETS CREATIVITY</sub>
-</p>
+## 📌 Our Approach
+
+> **Technology + Creativity = Digital Solutions That Matter**
+
+We focus on creating solutions that are:
+
+- ✨ Clean and modern
+- 📱 Fully responsive
+- ⚡ Functional and practical
+- 🔒 Reliable and maintainable
+- 🎯 Focused on real-world needs
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=qbtechstudio&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=qbtechstudio&theme=default&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=qbtechstudio&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=qbtechstudio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 🤝 Let's Build Something Great
+
+Have an idea, project, or business that needs a digital solution?
+
+**Let's turn your idea into reality. 🚀**
+
+---
+
+[![](https://komarev.com/ghpvc/?username=qbtechstudio&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
